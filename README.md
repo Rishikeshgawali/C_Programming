@@ -17,7 +17,7 @@ This repository contains solutions to various problems in **C programming**. The
 
 ### Prerequisites
 - A C compiler (like GCC) to compile the C programs.
-- Basic knowledge of C programming.
+- Knowledge of C programming.
 
 ### Repository
 https://github.com/Rishikeshgawali/C_Programming
