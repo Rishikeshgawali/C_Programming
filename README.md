@@ -1,4 +1,4 @@
-# C Programming Solutions
+# C Programming
 
 ## Description
 This repository contains solutions to various problems in **C programming**. The problems cover the following topics:
