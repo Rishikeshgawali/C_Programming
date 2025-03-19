@@ -21,3 +21,6 @@ This repository contains solutions to various problems in **C programming**. The
 
 ### Repository
 https://github.com/Rishikeshgawali/C_Programming
+
+### Author
+**RISHIKESH BHARAT GAWALI**
